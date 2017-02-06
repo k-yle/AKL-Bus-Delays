@@ -1,1 +1,3287 @@
-{}
+{
+    "1": {
+        "route_short_name": 1,
+        "delay_times": {
+            "stop_id": {
+                "1110": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "7.217"
+                        ],
+                        "average_delay": 7.217
+                    }
+                },
+                "1134": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.483"
+                        ],
+                        "average_delay": 0.483
+                    }
+                },
+                "1179": {
+                    "arrivals": {
+                        "delays": [
+                            "-0.433"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "2": {
+        "route_short_name": 2,
+        "delay_times": {
+            "stop_id": {
+                "1134": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.300"
+                        ],
+                        "average_delay": 0.3
+                    }
+                },
+                "1199": {
+                    "arrivals": {
+                        "delays": [
+                            "2.733"
+                        ],
+                        "average_delay": 2.733
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "1309": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "1.600"
+                        ],
+                        "average_delay": 1.6
+                    }
+                }
+            }
+        }
+    },
+    "7": {
+        "route_short_name": 7,
+        "delay_times": {
+            "stop_id": {
+                "7258": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "1.617"
+                        ],
+                        "average_delay": 1.617
+                    }
+                },
+                "8015": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.867"
+                        ],
+                        "average_delay": 0.867
+                    }
+                }
+            }
+        }
+    },
+    "8": {
+        "route_short_name": 8,
+        "delay_times": {
+            "stop_id": {
+                "7709": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "2.567"
+                        ],
+                        "average_delay": 2.567
+                    }
+                },
+                "8739": {
+                    "arrivals": {
+                        "delays": [
+                            "3.583"
+                        ],
+                        "average_delay": 3.583
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "9": {
+        "route_short_name": 9,
+        "delay_times": {
+            "stop_id": {
+                "5908": {
+                    "arrivals": {
+                        "delays": [
+                            "0.583"
+                        ],
+                        "average_delay": 0.583
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7239": {
+                    "arrivals": {
+                        "delays": [
+                            "0.017"
+                        ],
+                        "average_delay": 0.017
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "20": {
+        "route_short_name": 20,
+        "delay_times": {
+            "stop_id": {
+                "7015": {
+                    "arrivals": {
+                        "delays": [
+                            "3.383"
+                        ],
+                        "average_delay": 3.383
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "8087": {
+                    "arrivals": {
+                        "delays": [
+                            "0.350"
+                        ],
+                        "average_delay": 0.35
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "8088": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.767"
+                        ],
+                        "average_delay": 0.767
+                    }
+                }
+            }
+        }
+    },
+    "30": {
+        "route_short_name": 30,
+        "delay_times": {
+            "stop_id": {
+                "7081": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-0.067"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "7211": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-2.433"
+                        ],
+                        "average_delay": null
+                    }
+                }
+            }
+        }
+    },
+    "31": {
+        "route_short_name": 31,
+        "delay_times": {
+            "stop_id": {
+                "2321": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-0.133"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "2466": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-1.000"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "6191": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "3.617"
+                        ],
+                        "average_delay": 3.617
+                    }
+                },
+                "6198": {
+                    "arrivals": {
+                        "delays": [
+                            "0.800"
+                        ],
+                        "average_delay": 0.8
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "6466": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-1.783"
+                        ],
+                        "average_delay": null
+                    }
+                }
+            }
+        }
+    },
+    "32": {
+        "route_short_name": 32,
+        "delay_times": {
+            "stop_id": {
+                "6640": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-1.250"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "6955": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.417"
+                        ],
+                        "average_delay": 0.417
+                    }
+                },
+                "7238": {
+                    "arrivals": {
+                        "delays": [
+                            "-3.367"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7802": {
+                    "arrivals": {
+                        "delays": [
+                            "-3.900"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7970": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-2.717"
+                        ],
+                        "average_delay": null
+                    }
+                }
+            }
+        }
+    },
+    "33": {
+        "route_short_name": 33,
+        "delay_times": {
+            "stop_id": {
+                "2179": {
+                    "arrivals": {
+                        "delays": [
+                            "-4.783"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "2524": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-6.333"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "2539": {
+                    "arrivals": {
+                        "delays": [
+                            "16.283"
+                        ],
+                        "average_delay": 16.283
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "2716": {
+                    "arrivals": {
+                        "delays": [
+                            "3.933"
+                        ],
+                        "average_delay": 3.933
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "6007": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-1.700"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "6016": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-2.483"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "6624": {
+                    "arrivals": {
+                        "delays": [
+                            "2.567"
+                        ],
+                        "average_delay": 2.567
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "49": {
+        "route_short_name": 49,
+        "delay_times": {
+            "stop_id": {
+                "5068": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "2.217"
+                        ],
+                        "average_delay": 2.217
+                    }
+                }
+            }
+        }
+    },
+    "80": {
+        "route_short_name": 80,
+        "delay_times": {
+            "stop_id": {
+                "5800": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "5.200"
+                        ],
+                        "average_delay": 5.2
+                    }
+                },
+                "8111": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-5.517"
+                        ],
+                        "average_delay": null
+                    }
+                }
+            }
+        }
+    },
+    "113": {
+        "route_short_name": 113,
+        "delay_times": {
+            "stop_id": {
+                "5519": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "2.933"
+                        ],
+                        "average_delay": 2.933
+                    }
+                },
+                "5540": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-2.517"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "7087": {
+                    "arrivals": {
+                        "delays": [
+                            "-12.800"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "130": {
+        "route_short_name": 130,
+        "delay_times": {
+            "stop_id": {
+                "3362": {
+                    "arrivals": {
+                        "delays": [
+                            "6.150"
+                        ],
+                        "average_delay": 6.15
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "5686": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "5.900"
+                        ],
+                        "average_delay": 5.9
+                    }
+                },
+                "5777": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "3.833"
+                        ],
+                        "average_delay": 3.833
+                    }
+                }
+            }
+        }
+    },
+    "136": {
+        "route_short_name": 136,
+        "delay_times": {
+            "stop_id": {
+                "8144": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.167"
+                        ],
+                        "average_delay": 0.167
+                    }
+                },
+                "8147": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.217"
+                        ],
+                        "average_delay": 0.217
+                    }
+                }
+            }
+        }
+    },
+    "149": {
+        "route_short_name": 149,
+        "delay_times": {
+            "stop_id": {
+                "5396": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "1.500"
+                        ],
+                        "average_delay": 1.5
+                    }
+                },
+                "5912": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.417"
+                        ],
+                        "average_delay": 0.417
+                    }
+                }
+            }
+        }
+    },
+    "153": {
+        "route_short_name": 153,
+        "delay_times": {
+            "stop_id": {
+                "5452": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "1.067"
+                        ],
+                        "average_delay": 1.067
+                    }
+                },
+                "5860": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.117"
+                        ],
+                        "average_delay": 0.117
+                    }
+                },
+                "8119": {
+                    "arrivals": {
+                        "delays": [
+                            "-7.467"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "154": {
+        "route_short_name": 154,
+        "delay_times": {
+            "stop_id": {
+                "5421": {
+                    "arrivals": {
+                        "delays": [
+                            "4.350"
+                        ],
+                        "average_delay": 4.35
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "8108": {
+                    "arrivals": {
+                        "delays": [
+                            "0.850"
+                        ],
+                        "average_delay": 0.85
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "170": {
+        "route_short_name": 170,
+        "delay_times": {
+            "stop_id": {
+                "5146": {
+                    "arrivals": {
+                        "delays": [
+                            "3.433"
+                        ],
+                        "average_delay": 3.433
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "172": {
+        "route_short_name": 172,
+        "delay_times": {
+            "stop_id": {
+                "5001": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-0.033"
+                        ],
+                        "average_delay": null
+                    }
+                }
+            }
+        }
+    },
+    "186": {
+        "route_short_name": 186,
+        "delay_times": {
+            "stop_id": {
+                "5914": {
+                    "arrivals": {
+                        "delays": [
+                            "-3.600"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "195": {
+        "route_short_name": 195,
+        "delay_times": {
+            "stop_id": {
+                "8131": {
+                    "arrivals": {
+                        "delays": [
+                            "-5.233"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "8342": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "1.617"
+                        ],
+                        "average_delay": 1.617
+                    }
+                }
+            }
+        }
+    },
+    "222": {
+        "route_short_name": 222,
+        "delay_times": {
+            "stop_id": {
+                "7089": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-7.167"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "8200": {
+                    "arrivals": {
+                        "delays": [
+                            "1.400"
+                        ],
+                        "average_delay": 1.4
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "224": {
+        "route_short_name": 224,
+        "delay_times": {
+            "stop_id": {
+                "8242": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "4.167"
+                        ],
+                        "average_delay": 4.167
+                    }
+                },
+                "8861": {
+                    "arrivals": {
+                        "delays": [
+                            "-5.683"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "233": {
+        "route_short_name": 233,
+        "delay_times": {
+            "stop_id": {
+                "7148": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "1.483"
+                        ],
+                        "average_delay": 1.483
+                    }
+                },
+                "7151": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-4.033"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "8271": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "6.500"
+                        ],
+                        "average_delay": 6.5
+                    }
+                }
+            }
+        }
+    },
+    "248": {
+        "route_short_name": 248,
+        "delay_times": {
+            "stop_id": {
+                "8315": {
+                    "arrivals": {
+                        "delays": [
+                            "1.750"
+                        ],
+                        "average_delay": 1.75
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "8326": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "3.350"
+                        ],
+                        "average_delay": 3.35
+                    }
+                }
+            }
+        }
+    },
+    "258": {
+        "route_short_name": 258,
+        "delay_times": {
+            "stop_id": {
+                "7160": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "1.683"
+                        ],
+                        "average_delay": 1.683
+                    }
+                },
+                "8900": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "4.883"
+                        ],
+                        "average_delay": 4.883
+                    }
+                }
+            }
+        }
+    },
+    "267": {
+        "route_short_name": 267,
+        "delay_times": {
+            "stop_id": {
+                "8407": {
+                    "arrivals": {
+                        "delays": [
+                            "-3.567"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "8434": {
+                    "arrivals": {
+                        "delays": [
+                            "1.633"
+                        ],
+                        "average_delay": 1.633
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "277": {
+        "route_short_name": 277,
+        "delay_times": {
+            "stop_id": {
+                "7024": {
+                    "arrivals": {
+                        "delays": [
+                            "-9.183"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7146": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "1.250"
+                        ],
+                        "average_delay": 1.25
+                    }
+                },
+                "8524": {
+                    "arrivals": {
+                        "delays": [
+                            "5.833"
+                        ],
+                        "average_delay": 5.833
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "8527": {
+                    "arrivals": {
+                        "delays": [
+                            "2.817"
+                        ],
+                        "average_delay": 2.817
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "299": {
+        "route_short_name": 299,
+        "delay_times": {
+            "stop_id": {
+                "8626": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-0.267"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "8649": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "5.333"
+                        ],
+                        "average_delay": 5.333
+                    }
+                }
+            }
+        }
+    },
+    "302": {
+        "route_short_name": 302,
+        "delay_times": {
+            "stop_id": {
+                "8589": {
+                    "arrivals": {
+                        "delays": [
+                            "-4.983"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "309": {
+        "route_short_name": 309,
+        "delay_times": {
+            "stop_id": {
+                "6708": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.050"
+                        ],
+                        "average_delay": 0.05
+                    }
+                },
+                "6729": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-10.950"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "7055": {
+                    "arrivals": {
+                        "delays": [
+                            "4.583"
+                        ],
+                        "average_delay": 4.583
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7180": {
+                    "arrivals": {
+                        "delays": [
+                            "4.833"
+                        ],
+                        "average_delay": 4.833
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7207": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "3.300"
+                        ],
+                        "average_delay": 3.3
+                    }
+                }
+            }
+        }
+    },
+    "312": {
+        "route_short_name": 312,
+        "delay_times": {
+            "stop_id": {
+                "7164": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.217"
+                        ],
+                        "average_delay": 0.217
+                    }
+                },
+                "7203": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "1.767"
+                        ],
+                        "average_delay": 1.767
+                    }
+                }
+            }
+        }
+    },
+    "313": {
+        "route_short_name": 313,
+        "delay_times": {
+            "stop_id": {
+                "6464": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-7.783"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "6525": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-0.083"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "6697": {
+                    "arrivals": {
+                        "delays": [
+                            "1.083"
+                        ],
+                        "average_delay": 1.083
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "8591": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.767"
+                        ],
+                        "average_delay": 0.767
+                    }
+                }
+            }
+        }
+    },
+    "314": {
+        "route_short_name": 314,
+        "delay_times": {
+            "stop_id": {
+                "2017": {
+                    "arrivals": {
+                        "delays": [
+                            "0.083"
+                        ],
+                        "average_delay": 0.083
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "6011": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "13.433"
+                        ],
+                        "average_delay": 13.433
+                    }
+                }
+            }
+        }
+    },
+    "324": {
+        "route_short_name": 324,
+        "delay_times": {
+            "stop_id": {
+                "7970": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-0.350"
+                        ],
+                        "average_delay": null
+                    }
+                }
+            }
+        }
+    },
+    "325": {
+        "route_short_name": 325,
+        "delay_times": {
+            "stop_id": {
+                "6374": {
+                    "arrivals": {
+                        "delays": [
+                            "1.400"
+                        ],
+                        "average_delay": 1.4
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "6392": {
+                    "arrivals": {
+                        "delays": [
+                            "1.283"
+                        ],
+                        "average_delay": 1.283
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "6573": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-5.233"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "6955": {
+                    "arrivals": {
+                        "delays": [
+                            "-12.783"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "326": {
+        "route_short_name": 326,
+        "delay_times": {
+            "stop_id": {
+                "6419": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-0.667"
+                        ],
+                        "average_delay": null
+                    }
+                }
+            }
+        }
+    },
+    "353": {
+        "route_short_name": 353,
+        "delay_times": {
+            "stop_id": {
+                "6326": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "2.233"
+                        ],
+                        "average_delay": 2.233
+                    }
+                },
+                "6748": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-8.000"
+                        ],
+                        "average_delay": null
+                    }
+                }
+            }
+        }
+    },
+    "361": {
+        "route_short_name": 361,
+        "delay_times": {
+            "stop_id": {
+                "2127": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "1.700"
+                        ],
+                        "average_delay": 1.7
+                    }
+                },
+                "2143": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-8.683"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "6048": {
+                    "arrivals": {
+                        "delays": [
+                            "-2.533"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "6376": {
+                    "arrivals": {
+                        "delays": [
+                            "1.933"
+                        ],
+                        "average_delay": 1.933
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "362": {
+        "route_short_name": 362,
+        "delay_times": {
+            "stop_id": {
+                "6852": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-0.683"
+                        ],
+                        "average_delay": null
+                    }
+                }
+            }
+        }
+    },
+    "365": {
+        "route_short_name": 365,
+        "delay_times": {
+            "stop_id": {
+                "6752": {
+                    "arrivals": {
+                        "delays": [
+                            "0.450"
+                        ],
+                        "average_delay": 0.45
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "6822": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.783"
+                        ],
+                        "average_delay": 0.783
+                    }
+                }
+            }
+        }
+    },
+    "366": {
+        "route_short_name": 366,
+        "delay_times": {
+            "stop_id": {
+                "2053": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-0.267"
+                        ],
+                        "average_delay": null
+                    }
+                }
+            }
+        }
+    },
+    "377": {
+        "route_short_name": 377,
+        "delay_times": {
+            "stop_id": {
+                "2513": {
+                    "arrivals": {
+                        "delays": [
+                            "1.467"
+                        ],
+                        "average_delay": 1.467
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "378": {
+        "route_short_name": 378,
+        "delay_times": {
+            "stop_id": {
+                "2716": {
+                    "arrivals": {
+                        "delays": [
+                            "0.800"
+                        ],
+                        "average_delay": 0.8
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "380": {
+        "route_short_name": 380,
+        "delay_times": {
+            "stop_id": {
+                "2008": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.133",
+                            "7.783"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "6525": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.233"
+                        ],
+                        "average_delay": 0.233
+                    }
+                },
+                "6925": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-7.450"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "8589": {
+                    "arrivals": {
+                        "delays": [
+                            "-5.567"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.283"
+                        ],
+                        "average_delay": 0.283
+                    }
+                }
+            }
+        }
+    },
+    "396": {
+        "route_short_name": 396,
+        "delay_times": {
+            "stop_id": {
+                "2929": {
+                    "arrivals": {
+                        "delays": [
+                            "8.000"
+                        ],
+                        "average_delay": 8
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "500": {
+        "route_short_name": 500,
+        "delay_times": {
+            "stop_id": {
+                "1420": {
+                    "arrivals": {
+                        "delays": [
+                            "-13.150"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "6142": {
+                    "arrivals": {
+                        "delays": [
+                            "1.833"
+                        ],
+                        "average_delay": 1.833
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "6196": {
+                    "arrivals": {
+                        "delays": [
+                            "-0.300"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7501": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-3.450"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "7610": {
+                    "arrivals": {
+                        "delays": [
+                            "1.950"
+                        ],
+                        "average_delay": 1.95
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "515": {
+        "route_short_name": 515,
+        "delay_times": {
+            "stop_id": {
+                "7513": {
+                    "arrivals": {
+                        "delays": [
+                            "9.033"
+                        ],
+                        "average_delay": 9.033
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7902": {
+                    "arrivals": {
+                        "delays": [
+                            "-1.100"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "545": {
+        "route_short_name": 545,
+        "delay_times": {
+            "stop_id": {
+                "6071": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "1.717"
+                        ],
+                        "average_delay": 1.717
+                    }
+                }
+            }
+        }
+    },
+    "550": {
+        "route_short_name": 550,
+        "delay_times": {
+            "stop_id": {
+                "6063": {
+                    "arrivals": {
+                        "delays": [
+                            "5.067"
+                        ],
+                        "average_delay": 5.067
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "6285": {
+                    "arrivals": {
+                        "delays": [
+                            "-0.633"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7152": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-1.533"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "7528": {
+                    "arrivals": {
+                        "delays": [
+                            "-5.567"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7615": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "9.233"
+                        ],
+                        "average_delay": 9.233
+                    }
+                }
+            }
+        }
+    },
+    "552": {
+        "route_short_name": 552,
+        "delay_times": {
+            "stop_id": {
+                "6164": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "9.067"
+                        ],
+                        "average_delay": 9.067
+                    }
+                }
+            }
+        }
+    },
+    "555": {
+        "route_short_name": 555,
+        "delay_times": {
+            "stop_id": {
+                "3588": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "2.917"
+                        ],
+                        "average_delay": 2.917
+                    }
+                },
+                "3939": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "2.083"
+                        ],
+                        "average_delay": 2.083
+                    }
+                }
+            }
+        }
+    },
+    "560": {
+        "route_short_name": 560,
+        "delay_times": {
+            "stop_id": {
+                "3881": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-0.467"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "4205": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "3.333"
+                        ],
+                        "average_delay": 3.333
+                    }
+                }
+            }
+        }
+    },
+    "575": {
+        "route_short_name": 575,
+        "delay_times": {
+            "stop_id": {
+                "6054": {
+                    "arrivals": {
+                        "delays": [
+                            "5.983"
+                        ],
+                        "average_delay": 5.983
+                    },
+                    "departures": {
+                        "delays": [
+                            "-0.117"
+                        ],
+                        "average_delay": null
+                    }
+                }
+            }
+        }
+    },
+    "580": {
+        "route_short_name": 580,
+        "delay_times": {
+            "stop_id": {
+                "2134": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-0.383"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "6264": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.450"
+                        ],
+                        "average_delay": 0.45
+                    }
+                },
+                "6267": {
+                    "arrivals": {
+                        "delays": [
+                            "-0.700"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "6315": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-8.633"
+                        ],
+                        "average_delay": null
+                    }
+                }
+            }
+        }
+    },
+    "595": {
+        "route_short_name": 595,
+        "delay_times": {
+            "stop_id": {
+                "7140": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "6.950"
+                        ],
+                        "average_delay": 6.95
+                    }
+                }
+            }
+        }
+    },
+    "635": {
+        "route_short_name": 635,
+        "delay_times": {
+            "stop_id": {
+                "7705": {
+                    "arrivals": {
+                        "delays": [
+                            "4.517"
+                        ],
+                        "average_delay": 4.517
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7714": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-3.383"
+                        ],
+                        "average_delay": null
+                    }
+                }
+            }
+        }
+    },
+    "719": {
+        "route_short_name": 719,
+        "delay_times": {
+            "stop_id": {
+                "1413": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "2.833"
+                        ],
+                        "average_delay": 2.833
+                    }
+                },
+                "7546": {
+                    "arrivals": {
+                        "delays": [
+                            "4.583"
+                        ],
+                        "average_delay": 4.583
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "745": {
+        "route_short_name": 745,
+        "delay_times": {
+            "stop_id": {
+                "7244": {
+                    "arrivals": {
+                        "delays": [
+                            "22.867"
+                        ],
+                        "average_delay": 22.867
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7821": {
+                    "arrivals": {
+                        "delays": [
+                            "61.017"
+                        ],
+                        "average_delay": 61.017
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7842": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.167"
+                        ],
+                        "average_delay": 0.167
+                    }
+                }
+            }
+        }
+    },
+    "756": {
+        "route_short_name": 756,
+        "delay_times": {
+            "stop_id": {
+                "7313": {
+                    "arrivals": {
+                        "delays": [
+                            "10.283"
+                        ],
+                        "average_delay": 10.283
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7823": {
+                    "arrivals": {
+                        "delays": [
+                            "23.233"
+                        ],
+                        "average_delay": 23.233
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "767": {
+        "route_short_name": 767,
+        "delay_times": {
+            "stop_id": {
+                "7385": {
+                    "arrivals": {
+                        "delays": [
+                            "21.933"
+                        ],
+                        "average_delay": 21.933
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "769": {
+        "route_short_name": 769,
+        "delay_times": {
+            "stop_id": {
+                "7315": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "27.183"
+                        ],
+                        "average_delay": 27.183
+                    }
+                },
+                "7324": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "5.250"
+                        ],
+                        "average_delay": 5.25
+                    }
+                }
+            }
+        }
+    },
+    "803": {
+        "route_short_name": 803,
+        "delay_times": {
+            "stop_id": {
+                "3410": {
+                    "arrivals": {
+                        "delays": [
+                            "-5.217"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "804": {
+        "route_short_name": 804,
+        "delay_times": {
+            "stop_id": {
+                "3447": {
+                    "arrivals": {
+                        "delays": [
+                            "66.000"
+                        ],
+                        "average_delay": 66
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "839": {
+        "route_short_name": 839,
+        "delay_times": {
+            "stop_id": {
+                "3256": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "7.600"
+                        ],
+                        "average_delay": 7.6
+                    }
+                },
+                "4111": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "6.217"
+                        ],
+                        "average_delay": 6.217
+                    }
+                }
+            }
+        }
+    },
+    "843": {
+        "route_short_name": 843,
+        "delay_times": {
+            "stop_id": {
+                "3265": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "3.533"
+                        ],
+                        "average_delay": 3.533
+                    }
+                }
+            }
+        }
+    },
+    "858": {
+        "route_short_name": 858,
+        "delay_times": {
+            "stop_id": {
+                "3076": {
+                    "arrivals": {
+                        "delays": [
+                            "4.500"
+                        ],
+                        "average_delay": 4.5
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "3315": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "6.017"
+                        ],
+                        "average_delay": 6.017
+                    }
+                }
+            }
+        }
+    },
+    "875": {
+        "route_short_name": 875,
+        "delay_times": {
+            "stop_id": {
+                "3302": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.700"
+                        ],
+                        "average_delay": 0.7
+                    }
+                },
+                "7038": {
+                    "arrivals": {
+                        "delays": [
+                            "-1.300"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "879": {
+        "route_short_name": 879,
+        "delay_times": {
+            "stop_id": {
+                "3150": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "9.733"
+                        ],
+                        "average_delay": 9.733
+                    }
+                },
+                "3551": {
+                    "arrivals": {
+                        "delays": [
+                            "-0.533"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "880": {
+        "route_short_name": 880,
+        "delay_times": {
+            "stop_id": {
+                "3095": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "5.433"
+                        ],
+                        "average_delay": 5.433
+                    }
+                },
+                "3187": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "1.750"
+                        ],
+                        "average_delay": 1.75
+                    }
+                }
+            }
+        }
+    },
+    "886": {
+        "route_short_name": 886,
+        "delay_times": {
+            "stop_id": {
+                "3076": {
+                    "arrivals": {
+                        "delays": [
+                            "11.000"
+                        ],
+                        "average_delay": 11
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "887": {
+        "route_short_name": 887,
+        "delay_times": {
+            "stop_id": {
+                "3577": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-0.133"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "4246": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.033"
+                        ],
+                        "average_delay": 0.033
+                    }
+                }
+            }
+        }
+    },
+    "891": {
+        "route_short_name": 891,
+        "delay_times": {
+            "stop_id": {
+                "3381": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.933"
+                        ],
+                        "average_delay": 0.933
+                    }
+                },
+                "3581": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "1.867"
+                        ],
+                        "average_delay": 1.867
+                    }
+                }
+            }
+        }
+    },
+    "905": {
+        "route_short_name": 905,
+        "delay_times": {
+            "stop_id": {
+                "3353": {
+                    "arrivals": {
+                        "delays": [
+                            "0.667"
+                        ],
+                        "average_delay": 0.667
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "3820": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "1.183"
+                        ],
+                        "average_delay": 1.183
+                    }
+                }
+            }
+        }
+    },
+    "913": {
+        "route_short_name": 913,
+        "delay_times": {
+            "stop_id": {
+                "3381": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.033"
+                        ],
+                        "average_delay": 0.033
+                    }
+                }
+            }
+        }
+    },
+    "915": {
+        "route_short_name": 915,
+        "delay_times": {
+            "stop_id": {
+                "3306": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "2.617"
+                        ],
+                        "average_delay": 2.617
+                    }
+                }
+            }
+        }
+    },
+    "922": {
+        "route_short_name": 922,
+        "delay_times": {
+            "stop_id": {
+                "7038": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.367"
+                        ],
+                        "average_delay": 0.367
+                    }
+                }
+            }
+        }
+    },
+    "945": {
+        "route_short_name": 945,
+        "delay_times": {
+            "stop_id": {
+                "4313": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-2.350"
+                        ],
+                        "average_delay": null
+                    }
+                }
+            }
+        }
+    },
+    "955": {
+        "route_short_name": 955,
+        "delay_times": {
+            "stop_id": {
+                "3961": {
+                    "arrivals": {
+                        "delays": [
+                            "-14.750"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "4004": {
+                    "arrivals": {
+                        "delays": [
+                            "4.900"
+                        ],
+                        "average_delay": 4.9
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "957": {
+        "route_short_name": 957,
+        "delay_times": {
+            "stop_id": {
+                "3901": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.600"
+                        ],
+                        "average_delay": 0.6
+                    }
+                },
+                "4229": {
+                    "arrivals": {
+                        "delays": [
+                            "-8.933"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "973": {
+        "route_short_name": 973,
+        "delay_times": {
+            "stop_id": {
+                "4061": {
+                    "arrivals": {
+                        "delays": [
+                            "2.050"
+                        ],
+                        "average_delay": 2.05
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "974": {
+        "route_short_name": 974,
+        "delay_times": {
+            "stop_id": {
+                "3901": {
+                    "arrivals": {
+                        "delays": [
+                            "1.467"
+                        ],
+                        "average_delay": 1.467
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7071": {
+                    "arrivals": {
+                        "delays": [
+                            "-5.867"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "976": {
+        "route_short_name": 976,
+        "delay_times": {
+            "stop_id": {
+                "3277": {
+                    "arrivals": {
+                        "delays": [
+                            "2.083"
+                        ],
+                        "average_delay": 2.083
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "981": {
+        "route_short_name": 981,
+        "delay_times": {
+            "stop_id": {
+                "4786": {
+                    "arrivals": {
+                        "delays": [
+                            "0.533"
+                        ],
+                        "average_delay": 0.533
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "4809": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "1.800"
+                        ],
+                        "average_delay": 1.8
+                    }
+                }
+            }
+        }
+    },
+    "982": {
+        "route_short_name": 982,
+        "delay_times": {
+            "stop_id": {
+                "4540": {
+                    "arrivals": {
+                        "delays": [
+                            "15.433"
+                        ],
+                        "average_delay": 15.433
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "4665": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-0.350"
+                        ],
+                        "average_delay": null
+                    }
+                }
+            }
+        }
+    },
+    "983": {
+        "route_short_name": 983,
+        "delay_times": {
+            "stop_id": {
+                "4621": {
+                    "arrivals": {
+                        "delays": [
+                            "1.300"
+                        ],
+                        "average_delay": 1.3
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "4762": {
+                    "arrivals": {
+                        "delays": [
+                            "1.833"
+                        ],
+                        "average_delay": 1.833
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "985": {
+        "route_short_name": 985,
+        "delay_times": {
+            "stop_id": {
+                "4831": {
+                    "arrivals": {
+                        "delays": [
+                            "-2.067"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "INN": {
+        "route_short_name": "INN",
+        "delay_times": {
+            "stop_id": {
+                "7016": {
+                    "arrivals": {
+                        "delays": [
+                            "-0.850"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7049": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "4.400"
+                        ],
+                        "average_delay": 4.4
+                    }
+                },
+                "7134": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-1.650"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "7197": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-0.650"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "7200": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "5.667"
+                        ],
+                        "average_delay": 5.667
+                    }
+                },
+                "7223": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.967"
+                        ],
+                        "average_delay": 0.967
+                    }
+                },
+                "7228": {
+                    "arrivals": {
+                        "delays": [
+                            "0.900"
+                        ],
+                        "average_delay": 0.9
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "SKY": {
+        "route_short_name": "SKY",
+        "delay_times": {
+            "stop_id": {
+                "2010": {
+                    "arrivals": {
+                        "delays": [
+                            "-9.283"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7060": {
+                    "arrivals": {
+                        "delays": [
+                            "-8.067"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7168": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-2.950"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "8532": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-2.117"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "8533": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-0.617"
+                        ],
+                        "average_delay": null
+                    }
+                }
+            }
+        }
+    },
+    "CTY": {
+        "route_short_name": "CTY",
+        "delay_times": {
+            "stop_id": {
+                "1078": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-3.833"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "1325": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-5.733",
+                            "2.183"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "7004": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.850"
+                        ],
+                        "average_delay": 0.85
+                    }
+                }
+            }
+        }
+    },
+    "NEX": {
+        "route_short_name": "NEX",
+        "delay_times": {
+            "stop_id": {
+                "4065": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-3.517"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "4223": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-1.550"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "4226": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "1.067"
+                        ],
+                        "average_delay": 1.067
+                    }
+                },
+                "4229": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "9.367"
+                        ],
+                        "average_delay": 9.367
+                    }
+                },
+                "7036": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "1.833"
+                        ],
+                        "average_delay": 1.833
+                    }
+                },
+                "7071": {
+                    "arrivals": {
+                        "delays": [
+                            "-0.117"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    },
+    "OUT": {
+        "route_short_name": "OUT",
+        "delay_times": {
+            "stop_id": {
+                "1083": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-7.883"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "1094": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.850"
+                        ],
+                        "average_delay": 0.85
+                    }
+                },
+                "7124": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "0.367"
+                        ],
+                        "average_delay": 0.367
+                    }
+                },
+                "7200": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-1.233"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "8044": {
+                    "arrivals": {
+                        "delays": [
+                            "-0.667"
+                        ],
+                        "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "8059": {
+                    "arrivals": {
+                        "delays": [
+                            "1.750"
+                        ],
+                        "average_delay": 1.75
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "8228": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-3.700"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "8491": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "-0.167"
+                        ],
+                        "average_delay": null
+                    }
+                },
+                "8709": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            "10.800"
+                        ],
+                        "average_delay": 10.8
+                    }
+                },
+                "8976": {
+                    "arrivals": {
+                        "delays": [
+                            "2.817"
+                        ],
+                        "average_delay": 2.817
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                }
+            }
+        }
+    }
+}

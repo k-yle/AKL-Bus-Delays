@@ -30,8 +30,10 @@
                 },
                 "1134": {
                     "arrivals": {
-                        "delays": [],
-                        "average_delay": 0
+                        "delays": [
+                            -4.083
+                        ],
+                        "average_delay": -4.083
                     },
                     "departures": {
                         "delays": [
@@ -88,6 +90,18 @@
                         "delays": [],
                         "average_delay": 0
                     }
+                },
+                "1183": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            1.85
+                        ],
+                        "average_delay": 1.85
+                    }
                 }
             }
         }
@@ -108,6 +122,18 @@
                         "average_delay": 0.3
                     }
                 },
+                "1194": {
+                    "arrivals": {
+                        "delays": [
+                            5.417
+                        ],
+                        "average_delay": 5.417
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "1199": {
                     "arrivals": {
                         "delays": [
@@ -118,6 +144,18 @@
                     "departures": {
                         "delays": [],
                         "average_delay": 0
+                    }
+                },
+                "1206": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            3.033
+                        ],
+                        "average_delay": 3.033
                     }
                 },
                 "1207": {
@@ -202,7 +240,8 @@
                 "7345": {
                     "arrivals": {
                         "delays": [
-                            "-5.283"
+                            "-5.283",
+                            -5.283
                         ],
                         "average_delay": null
                     },
@@ -215,7 +254,8 @@
                     "arrivals": {
                         "delays": [
                             "-1.817",
-                            "-1.817"
+                            "-1.817",
+                            2.433
                         ],
                         "average_delay": null
                     },
@@ -291,12 +331,36 @@
                         "average_delay": 2.567
                     }
                 },
+                "7997": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            1.35
+                        ],
+                        "average_delay": 1.35
+                    }
+                },
                 "8739": {
                     "arrivals": {
                         "delays": [
                             "3.583"
                         ],
                         "average_delay": 3.583
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "8839": {
+                    "arrivals": {
+                        "delays": [
+                            8.717
+                        ],
+                        "average_delay": 8.717
                     },
                     "departures": {
                         "delays": [],
@@ -382,6 +446,30 @@
                         ],
                         "average_delay": 0.383
                     }
+                },
+                "8692": {
+                    "arrivals": {
+                        "delays": [
+                            2.767
+                        ],
+                        "average_delay": 2.767
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "8900": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            1.383
+                        ],
+                        "average_delay": 1.383
+                    }
                 }
             }
         }
@@ -400,6 +488,18 @@
                     "departures": {
                         "delays": [],
                         "average_delay": 0
+                    }
+                },
+                "7085": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -7.733
+                        ],
+                        "average_delay": -7.733
                     }
                 },
                 "7133": {
@@ -465,7 +565,8 @@
                 "8491": {
                     "arrivals": {
                         "delays": [
-                            "-4.850"
+                            "-4.850",
+                            -4.85
                         ],
                         "average_delay": null
                     },
@@ -518,6 +619,30 @@
                         "average_delay": null
                     }
                 },
+                "8016": {
+                    "arrivals": {
+                        "delays": [
+                            0.467
+                        ],
+                        "average_delay": 0.467
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "8120": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -1.483
+                        ],
+                        "average_delay": -1.483
+                    }
+                },
                 "8890": {
                     "arrivals": {
                         "delays": [],
@@ -549,6 +674,30 @@
         "route_short_name": 31,
         "delay_times": {
             "stop_id": {
+                "2056": {
+                    "arrivals": {
+                        "delays": [
+                            0.983
+                        ],
+                        "average_delay": 0.983
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "2063": {
+                    "arrivals": {
+                        "delays": [
+                            0.883
+                        ],
+                        "average_delay": 0.883
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "2321": {
                     "arrivals": {
                         "delays": [],
@@ -633,6 +782,18 @@
                         "average_delay": 0.867
                     }
                 },
+                "6337": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            3.933
+                        ],
+                        "average_delay": 3.933
+                    }
+                },
                 "6345": {
                     "arrivals": {
                         "delays": [
@@ -679,6 +840,18 @@
                             "-1.783"
                         ],
                         "average_delay": null
+                    }
+                },
+                "6468": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -4.867
+                        ],
+                        "average_delay": -4.867
                     }
                 },
                 "6480": {
@@ -730,6 +903,18 @@
                         ],
                         "average_delay": 0.383
                     }
+                },
+                "6957": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -5.45
+                        ],
+                        "average_delay": -5.45
+                    }
                 }
             }
         }
@@ -738,6 +923,18 @@
         "route_short_name": 32,
         "delay_times": {
             "stop_id": {
+                "1355": {
+                    "arrivals": {
+                        "delays": [
+                            -2.167
+                        ],
+                        "average_delay": -2.167
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "1773": {
                     "arrivals": {
                         "delays": [],
@@ -748,6 +945,18 @@
                             "2.517"
                         ],
                         "average_delay": 2.517
+                    }
+                },
+                "1775": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            1.767
+                        ],
+                        "average_delay": 1.767
                     }
                 },
                 "2496": {
@@ -786,6 +995,18 @@
                         "average_delay": null
                     }
                 },
+                "6620": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            3.75
+                        ],
+                        "average_delay": 3.75
+                    }
+                },
                 "6640": {
                     "arrivals": {
                         "delays": [],
@@ -801,9 +1022,10 @@
                 "6955": {
                     "arrivals": {
                         "delays": [
-                            "4.800"
+                            "4.800",
+                            6.467
                         ],
-                        "average_delay": 4.8
+                        "average_delay": null
                     },
                     "departures": {
                         "delays": [
@@ -817,7 +1039,8 @@
                         "delays": [
                             "-3.367",
                             "-7.883",
-                            "-5.133"
+                            "-5.133",
+                            -1.233
                         ],
                         "average_delay": null
                     },
@@ -903,8 +1126,10 @@
                         "average_delay": null
                     },
                     "departures": {
-                        "delays": [],
-                        "average_delay": 0
+                        "delays": [
+                            0.567
+                        ],
+                        "average_delay": 0.567
                     }
                 },
                 "2179": {
@@ -967,6 +1192,18 @@
                         "average_delay": null
                     }
                 },
+                "2523": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            7.05
+                        ],
+                        "average_delay": 7.05
+                    }
+                },
                 "2524": {
                     "arrivals": {
                         "delays": [],
@@ -996,7 +1233,8 @@
                         "delays": [
                             "3.933",
                             "-3.683",
-                            "-3.683"
+                            "-3.683",
+                            1.333
                         ],
                         "average_delay": null
                     },
@@ -1019,16 +1257,54 @@
                         "average_delay": null
                     }
                 },
-                "6016": {
+                "6015": {
                     "arrivals": {
                         "delays": [],
                         "average_delay": 0
                     },
                     "departures": {
                         "delays": [
+                            -0.217
+                        ],
+                        "average_delay": -0.217
+                    }
+                },
+                "6016": {
+                    "arrivals": {
+                        "delays": [
+                            -4.2
+                        ],
+                        "average_delay": -4.2
+                    },
+                    "departures": {
+                        "delays": [
                             "-2.483"
                         ],
                         "average_delay": null
+                    }
+                },
+                "6035": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            13.167
+                        ],
+                        "average_delay": 13.167
+                    }
+                },
+                "6044": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            0.533
+                        ],
+                        "average_delay": 0.533
                     }
                 },
                 "6048": {
@@ -1133,6 +1409,18 @@
                         "delays": [],
                         "average_delay": 0
                     }
+                },
+                "5084": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            3.317
+                        ],
+                        "average_delay": 3.317
+                    }
                 }
             }
         }
@@ -1159,6 +1447,19 @@
                             "7.217"
                         ],
                         "average_delay": 7.217
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "5633": {
+                    "arrivals": {
+                        "delays": [
+                            56.8,
+                            -1.55
+                        ],
+                        "average_delay": 27.625
                     },
                     "departures": {
                         "delays": [],
@@ -1195,6 +1496,18 @@
                             "-5.750"
                         ],
                         "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7087": {
+                    "arrivals": {
+                        "delays": [
+                            -3.533
+                        ],
+                        "average_delay": -3.533
                     },
                     "departures": {
                         "delays": [],
@@ -1244,6 +1557,18 @@
                         "average_delay": 3.283
                     }
                 },
+                "5273": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            1.2
+                        ],
+                        "average_delay": 1.2
+                    }
+                },
                 "5283": {
                     "arrivals": {
                         "delays": [],
@@ -1283,9 +1608,22 @@
                 "5841": {
                     "arrivals": {
                         "delays": [
-                            "-4.817"
+                            "-4.817",
+                            -4.367
                         ],
                         "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7082": {
+                    "arrivals": {
+                        "delays": [
+                            3.883
+                        ],
+                        "average_delay": 3.883
                     },
                     "departures": {
                         "delays": [],
@@ -1334,6 +1672,30 @@
                     "departures": {
                         "delays": [],
                         "average_delay": 0
+                    }
+                },
+                "5563": {
+                    "arrivals": {
+                        "delays": [
+                            3.567
+                        ],
+                        "average_delay": 3.567
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "5583": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            7.4
+                        ],
+                        "average_delay": 7.4
                     }
                 },
                 "5597": {
@@ -1427,6 +1789,18 @@
                         "average_delay": 0
                     }
                 },
+                "5870": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -2.5
+                        ],
+                        "average_delay": -2.5
+                    }
+                },
                 "5912": {
                     "arrivals": {
                         "delays": [],
@@ -1437,6 +1811,18 @@
                             "-3.650"
                         ],
                         "average_delay": null
+                    }
+                },
+                "8115": {
+                    "arrivals": {
+                        "delays": [
+                            -11.967
+                        ],
+                        "average_delay": -11.967
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
                     }
                 },
                 "8121": {
@@ -1494,6 +1880,18 @@
         "route_short_name": 149,
         "delay_times": {
             "stop_id": {
+                "5295": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            0.95
+                        ],
+                        "average_delay": 0.95
+                    }
+                },
                 "5347": {
                     "arrivals": {
                         "delays": [],
@@ -1528,6 +1926,18 @@
                             "1.500"
                         ],
                         "average_delay": 1.5
+                    }
+                },
+                "5860": {
+                    "arrivals": {
+                        "delays": [
+                            2.85
+                        ],
+                        "average_delay": 2.85
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
                     }
                 },
                 "5872": {
@@ -1595,6 +2005,30 @@
                             "2.633"
                         ],
                         "average_delay": 2.633
+                    }
+                },
+                "5037": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -6.25
+                        ],
+                        "average_delay": -6.25
+                    }
+                },
+                "5054": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            3.967
+                        ],
+                        "average_delay": 3.967
                     }
                 },
                 "5296": {
@@ -1669,6 +2103,18 @@
                         "average_delay": null
                     }
                 },
+                "7087": {
+                    "arrivals": {
+                        "delays": [
+                            -13.7
+                        ],
+                        "average_delay": -13.7
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "8119": {
                     "arrivals": {
                         "delays": [
@@ -1698,6 +2144,18 @@
                     "departures": {
                         "delays": [],
                         "average_delay": 0
+                    }
+                },
+                "5779": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            1.267
+                        ],
+                        "average_delay": 1.267
                     }
                 },
                 "5914": {
@@ -1737,6 +2195,18 @@
                         ],
                         "average_delay": null
                     }
+                },
+                "8142": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -0.9
+                        ],
+                        "average_delay": -0.9
+                    }
                 }
             }
         }
@@ -1774,6 +2244,18 @@
                             "-0.033"
                         ],
                         "average_delay": null
+                    }
+                },
+                "5008": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -2.383
+                        ],
+                        "average_delay": -2.383
                     }
                 },
                 "5429": {
@@ -1826,6 +2308,18 @@
                         "average_delay": 1.4
                     }
                 },
+                "5138": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            1.45
+                        ],
+                        "average_delay": 1.45
+                    }
+                },
                 "5226": {
                     "arrivals": {
                         "delays": [],
@@ -1836,6 +2330,18 @@
                             "0.717"
                         ],
                         "average_delay": 0.717
+                    }
+                },
+                "7085": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -9.45
+                        ],
+                        "average_delay": -9.45
                     }
                 },
                 "8101": {
@@ -1893,6 +2399,18 @@
         "route_short_name": 221,
         "delay_times": {
             "stop_id": {
+                "8543": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            3.05
+                        ],
+                        "average_delay": 3.05
+                    }
+                },
                 "8562": {
                     "arrivals": {
                         "delays": [
@@ -1973,6 +2491,18 @@
                         "average_delay": null
                     }
                 },
+                "8236": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -1.433
+                        ],
+                        "average_delay": -1.433
+                    }
+                },
                 "8866": {
                     "arrivals": {
                         "delays": [],
@@ -1992,6 +2522,18 @@
         "route_short_name": 223,
         "delay_times": {
             "stop_id": {
+                "7093": {
+                    "arrivals": {
+                        "delays": [
+                            2.883
+                        ],
+                        "average_delay": 2.883
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "7099": {
                     "arrivals": {
                         "delays": [
@@ -2023,6 +2565,30 @@
                             "7.117"
                         ],
                         "average_delay": 7.117
+                    }
+                },
+                "5912": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            2.367
+                        ],
+                        "average_delay": 2.367
+                    }
+                },
+                "7086": {
+                    "arrivals": {
+                        "delays": [
+                            -12.317
+                        ],
+                        "average_delay": -12.317
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
                     }
                 },
                 "7151": {
@@ -2129,6 +2695,30 @@
                         "average_delay": 0
                     }
                 },
+                "7099": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            0.167
+                        ],
+                        "average_delay": 0.167
+                    }
+                },
+                "7105": {
+                    "arrivals": {
+                        "delays": [
+                            -0.333
+                        ],
+                        "average_delay": -0.333
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "7148": {
                     "arrivals": {
                         "delays": [],
@@ -2153,6 +2743,18 @@
                         "average_delay": null
                     }
                 },
+                "8044": {
+                    "arrivals": {
+                        "delays": [
+                            1.233
+                        ],
+                        "average_delay": 1.233
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "8271": {
                     "arrivals": {
                         "delays": [],
@@ -2163,6 +2765,18 @@
                             "6.500"
                         ],
                         "average_delay": 6.5
+                    }
+                },
+                "8274": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            2.7
+                        ],
+                        "average_delay": 2.7
                     }
                 },
                 "8306": {
@@ -2220,6 +2834,30 @@
         "route_short_name": 248,
         "delay_times": {
             "stop_id": {
+                "7029": {
+                    "arrivals": {
+                        "delays": [
+                            -8.183
+                        ],
+                        "average_delay": -8.183
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7089": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -12.067
+                        ],
+                        "average_delay": -12.067
+                    }
+                },
                 "7151": {
                     "arrivals": {
                         "delays": [],
@@ -2360,6 +2998,30 @@
                         "average_delay": 3.983
                     }
                 },
+                "8422": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            4.5
+                        ],
+                        "average_delay": 4.5
+                    }
+                },
+                "8425": {
+                    "arrivals": {
+                        "delays": [
+                            2.467
+                        ],
+                        "average_delay": 2.467
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "8435": {
                     "arrivals": {
                         "delays": [],
@@ -2391,6 +3053,18 @@
         "route_short_name": 267,
         "delay_times": {
             "stop_id": {
+                "7089": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -4.533
+                        ],
+                        "average_delay": -4.533
+                    }
+                },
                 "7151": {
                     "arrivals": {
                         "delays": [],
@@ -2451,6 +3125,18 @@
                         "delays": [],
                         "average_delay": 0
                     }
+                },
+                "8690": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -1.467
+                        ],
+                        "average_delay": -1.467
+                    }
                 }
             }
         }
@@ -2481,6 +3167,18 @@
                             "1.250"
                         ],
                         "average_delay": 1.25
+                    }
+                },
+                "7151": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -7.333
+                        ],
+                        "average_delay": -7.333
                     }
                 },
                 "8501": {
@@ -2531,6 +3229,18 @@
                         "average_delay": null
                     }
                 },
+                "8514": {
+                    "arrivals": {
+                        "delays": [
+                            0.75
+                        ],
+                        "average_delay": 0.75
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "8524": {
                     "arrivals": {
                         "delays": [
@@ -2549,6 +3259,18 @@
                             "2.817"
                         ],
                         "average_delay": 2.817
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "8666": {
+                    "arrivals": {
+                        "delays": [
+                            -3.233
+                        ],
+                        "average_delay": -3.233
                     },
                     "departures": {
                         "delays": [],
@@ -2602,6 +3324,18 @@
                         ],
                         "average_delay": 0.383
                     }
+                },
+                "8961": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            1.383
+                        ],
+                        "average_delay": 1.383
+                    }
                 }
             }
         }
@@ -2620,6 +3354,18 @@
                             "2.500"
                         ],
                         "average_delay": 2.5
+                    }
+                },
+                "8603": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            4.017
+                        ],
+                        "average_delay": 4.017
                     }
                 },
                 "8609": {
@@ -2681,6 +3427,18 @@
                         "delays": [],
                         "average_delay": 0
                     }
+                },
+                "8658": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -2.4
+                        ],
+                        "average_delay": -2.4
+                    }
                 }
             }
         }
@@ -2697,6 +3455,18 @@
                             "6.183"
                         ],
                         "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "8727": {
+                    "arrivals": {
+                        "delays": [
+                            2.333
+                        ],
+                        "average_delay": 2.333
                     },
                     "departures": {
                         "delays": [],
@@ -2782,6 +3552,19 @@
                         "average_delay": null
                     }
                 },
+                "6955": {
+                    "arrivals": {
+                        "delays": [
+                            86.8,
+                            -12.783
+                        ],
+                        "average_delay": 37.0085
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "6957": {
                     "arrivals": {
                         "delays": [],
@@ -2804,6 +3587,18 @@
                     "departures": {
                         "delays": [],
                         "average_delay": 0
+                    }
+                },
+                "7061": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -1.05
+                        ],
+                        "average_delay": -1.05
                     }
                 },
                 "7151": {
@@ -2854,6 +3649,18 @@
                         "average_delay": 3.3
                     }
                 },
+                "8585": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            2.883
+                        ],
+                        "average_delay": 2.883
+                    }
+                },
                 "8708": {
                     "arrivals": {
                         "delays": [],
@@ -2877,6 +3684,18 @@
                         "delays": [],
                         "average_delay": 0
                     }
+                },
+                "8756": {
+                    "arrivals": {
+                        "delays": [
+                            1.367
+                        ],
+                        "average_delay": 1.367
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
                 }
             }
         }
@@ -2885,6 +3704,18 @@
         "route_short_name": 312,
         "delay_times": {
             "stop_id": {
+                "7055": {
+                    "arrivals": {
+                        "delays": [
+                            -1.95
+                        ],
+                        "average_delay": -1.95
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "7151": {
                     "arrivals": {
                         "delays": [],
@@ -2945,6 +3776,18 @@
                         "delays": [],
                         "average_delay": 0
                     }
+                },
+                "8718": {
+                    "arrivals": {
+                        "delays": [
+                            -4.433
+                        ],
+                        "average_delay": -4.433
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
                 }
             }
         }
@@ -2963,6 +3806,18 @@
                             "-0.150"
                         ],
                         "average_delay": null
+                    }
+                },
+                "2179": {
+                    "arrivals": {
+                        "delays": [
+                            -14.133
+                        ],
+                        "average_delay": -14.133
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
                     }
                 },
                 "2219": {
@@ -2987,6 +3842,18 @@
                             "-14.267"
                         ],
                         "average_delay": null
+                    }
+                },
+                "6438": {
+                    "arrivals": {
+                        "delays": [
+                            -3.9
+                        ],
+                        "average_delay": -3.9
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
                     }
                 },
                 "6461": {
@@ -3023,6 +3890,18 @@
                             "-0.083"
                         ],
                         "average_delay": null
+                    }
+                },
+                "6652": {
+                    "arrivals": {
+                        "delays": [
+                            0.133
+                        ],
+                        "average_delay": 0.133
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
                     }
                 },
                 "6687": {
@@ -3087,8 +3966,10 @@
                 },
                 "8591": {
                     "arrivals": {
-                        "delays": [],
-                        "average_delay": 0
+                        "delays": [
+                            -0.35
+                        ],
+                        "average_delay": -0.35
                     },
                     "departures": {
                         "delays": [
@@ -3126,6 +4007,30 @@
                             "13.433"
                         ],
                         "average_delay": 13.433
+                    }
+                },
+                "6191": {
+                    "arrivals": {
+                        "delays": [
+                            0.95
+                        ],
+                        "average_delay": 0.95
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "6466": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            6.35
+                        ],
+                        "average_delay": 6.35
                     }
                 },
                 "6480": {
@@ -3186,6 +4091,18 @@
                         "average_delay": 0
                     }
                 },
+                "6957": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            2.833
+                        ],
+                        "average_delay": 2.833
+                    }
+                },
                 "7970": {
                     "arrivals": {
                         "delays": [],
@@ -3214,8 +4131,10 @@
                         "average_delay": null
                     },
                     "departures": {
-                        "delays": [],
-                        "average_delay": 0
+                        "delays": [
+                            0.45
+                        ],
+                        "average_delay": 0.45
                     }
                 },
                 "1777": {
@@ -3240,6 +4159,18 @@
                             "0.750"
                         ],
                         "average_delay": 0.75
+                    }
+                },
+                "6156": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            3.017
+                        ],
+                        "average_delay": 3.017
                     }
                 },
                 "6315": {
@@ -3276,6 +4207,18 @@
                     "departures": {
                         "delays": [],
                         "average_delay": 0
+                    }
+                },
+                "6379": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -0.717
+                        ],
+                        "average_delay": -0.717
                     }
                 },
                 "6392": {
@@ -3326,6 +4269,18 @@
                         "average_delay": 0
                     }
                 },
+                "7642": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            0.7
+                        ],
+                        "average_delay": 0.7
+                    }
+                },
                 "7952": {
                     "arrivals": {
                         "delays": [],
@@ -3357,6 +4312,18 @@
                             "0.383"
                         ],
                         "average_delay": 0.383
+                    }
+                },
+                "1771": {
+                    "arrivals": {
+                        "delays": [
+                            -0.333
+                        ],
+                        "average_delay": -0.333
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
                     }
                 },
                 "6419": {
@@ -3393,9 +4360,10 @@
                 "6231": {
                     "arrivals": {
                         "delays": [
-                            "0.050"
+                            "0.050",
+                            0.65
                         ],
-                        "average_delay": 0.05
+                        "average_delay": null
                     },
                     "departures": {
                         "delays": [],
@@ -3457,6 +4425,18 @@
                         "average_delay": 1.333
                     }
                 },
+                "2135": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -0.717
+                        ],
+                        "average_delay": -0.717
+                    }
+                },
                 "2143": {
                     "arrivals": {
                         "delays": [],
@@ -3479,6 +4459,18 @@
                     "departures": {
                         "delays": [],
                         "average_delay": 0
+                    }
+                },
+                "2335": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            1.05
+                        ],
+                        "average_delay": 1.05
                     }
                 },
                 "6048": {
@@ -3530,6 +4522,18 @@
                         "average_delay": null
                     }
                 },
+                "6868": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            0.033
+                        ],
+                        "average_delay": 0.033
+                    }
+                },
                 "6958": {
                     "arrivals": {
                         "delays": [],
@@ -3549,6 +4553,18 @@
         "route_short_name": 362,
         "delay_times": {
             "stop_id": {
+                "6624": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            2.783
+                        ],
+                        "average_delay": 2.783
+                    }
+                },
                 "6778": {
                     "arrivals": {
                         "delays": [
@@ -3561,6 +4577,18 @@
                         "average_delay": 0
                     }
                 },
+                "6783": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            0.35
+                        ],
+                        "average_delay": 0.35
+                    }
+                },
                 "6852": {
                     "arrivals": {
                         "delays": [],
@@ -3571,6 +4599,25 @@
                             "-0.683"
                         ],
                         "average_delay": null
+                    }
+                }
+            }
+        }
+    },
+    "363": {
+        "route_short_name": 363,
+        "delay_times": {
+            "stop_id": {
+                "6048": {
+                    "arrivals": {
+                        "delays": [
+                            30.25
+                        ],
+                        "average_delay": 30.25
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
                     }
                 }
             }
@@ -3605,6 +4652,18 @@
                         "average_delay": 0
                     }
                 },
+                "2585": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            3.217
+                        ],
+                        "average_delay": 3.217
+                    }
+                },
                 "2724": {
                     "arrivals": {
                         "delays": [
@@ -3615,6 +4674,18 @@
                     "departures": {
                         "delays": [],
                         "average_delay": 0
+                    }
+                },
+                "2727": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            3.117
+                        ],
+                        "average_delay": 3.117
                     }
                 },
                 "2732": {
@@ -3651,6 +4722,18 @@
                             "2.700"
                         ],
                         "average_delay": 2.7
+                    }
+                },
+                "6105": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            2.967
+                        ],
+                        "average_delay": 2.967
                     }
                 },
                 "6752": {
@@ -3731,6 +4814,18 @@
                         ],
                         "average_delay": null
                     }
+                },
+                "6933": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -4.283
+                        ],
+                        "average_delay": -4.283
+                    }
                 }
             }
         }
@@ -3739,6 +4834,18 @@
         "route_short_name": 373,
         "delay_times": {
             "stop_id": {
+                "2710": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            1.6
+                        ],
+                        "average_delay": 1.6
+                    }
+                },
                 "2716": {
                     "arrivals": {
                         "delays": [
@@ -3793,6 +4900,30 @@
                         ],
                         "average_delay": null
                     }
+                },
+                "2716": {
+                    "arrivals": {
+                        "delays": [
+                            31.6
+                        ],
+                        "average_delay": 31.6
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "2799": {
+                    "arrivals": {
+                        "delays": [
+                            0.017
+                        ],
+                        "average_delay": 0.017
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
                 }
             }
         }
@@ -3825,6 +4956,18 @@
                         ],
                         "average_delay": null
                     }
+                },
+                "2720": {
+                    "arrivals": {
+                        "delays": [
+                            5.967
+                        ],
+                        "average_delay": 5.967
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
                 }
             }
         }
@@ -3846,6 +4989,18 @@
                         "average_delay": null
                     }
                 },
+                "2181": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -0.65
+                        ],
+                        "average_delay": -0.65
+                    }
+                },
                 "2196": {
                     "arrivals": {
                         "delays": [],
@@ -3856,6 +5011,18 @@
                             "-3.050"
                         ],
                         "average_delay": null
+                    }
+                },
+                "2206": {
+                    "arrivals": {
+                        "delays": [
+                            -1.75
+                        ],
+                        "average_delay": -1.75
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
                     }
                 },
                 "2396": {
@@ -3957,6 +5124,30 @@
                         "average_delay": null
                     }
                 },
+                "6953": {
+                    "arrivals": {
+                        "delays": [
+                            -1.05
+                        ],
+                        "average_delay": -1.05
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "6955": {
+                    "arrivals": {
+                        "delays": [
+                            3.15
+                        ],
+                        "average_delay": 3.15
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "8589": {
                     "arrivals": {
                         "delays": [
@@ -3978,6 +5169,18 @@
         "route_short_name": 391,
         "delay_times": {
             "stop_id": {
+                "2898": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -4.55
+                        ],
+                        "average_delay": -4.55
+                    }
+                },
                 "2916": {
                     "arrivals": {
                         "delays": [],
@@ -4032,6 +5235,18 @@
                         ],
                         "average_delay": 1.4
                     }
+                },
+                "2895": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -1.883
+                        ],
+                        "average_delay": -1.883
+                    }
                 }
             }
         }
@@ -4040,6 +5255,18 @@
         "route_short_name": 393,
         "delay_times": {
             "stop_id": {
+                "2906": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            0.817
+                        ],
+                        "average_delay": 0.817
+                    }
+                },
                 "2910": {
                     "arrivals": {
                         "delays": [
@@ -4117,6 +5344,18 @@
                         "average_delay": 0.433
                     }
                 },
+                "6137": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            0.25
+                        ],
+                        "average_delay": 0.25
+                    }
+                },
                 "6142": {
                     "arrivals": {
                         "delays": [
@@ -4167,6 +5406,30 @@
                         "average_delay": null
                     }
                 },
+                "6936": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            3.667
+                        ],
+                        "average_delay": 3.667
+                    }
+                },
+                "7152": {
+                    "arrivals": {
+                        "delays": [
+                            -2.683
+                        ],
+                        "average_delay": -2.683
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "7201": {
                     "arrivals": {
                         "delays": [],
@@ -4189,6 +5452,18 @@
                             "-8.583"
                         ],
                         "average_delay": null
+                    }
+                },
+                "7227": {
+                    "arrivals": {
+                        "delays": [
+                            -8.867
+                        ],
+                        "average_delay": -8.867
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
                     }
                 },
                 "7501": {
@@ -4227,6 +5502,18 @@
                         "average_delay": 0
                     }
                 },
+                "7524": {
+                    "arrivals": {
+                        "delays": [
+                            2.867
+                        ],
+                        "average_delay": 2.867
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "7610": {
                     "arrivals": {
                         "delays": [
@@ -4253,9 +5540,22 @@
                     },
                     "departures": {
                         "delays": [
-                            "-13.583"
+                            "-13.583",
+                            -13.583
                         ],
                         "average_delay": null
+                    }
+                },
+                "7205": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            7.217
+                        ],
+                        "average_delay": 7.217
                     }
                 },
                 "7513": {
@@ -4352,9 +5652,10 @@
                 "6163": {
                     "arrivals": {
                         "delays": [
-                            "0.317"
+                            "0.317",
+                            0.317
                         ],
-                        "average_delay": 0.317
+                        "average_delay": null
                     },
                     "departures": {
                         "delays": [],
@@ -4404,6 +5705,18 @@
                         "average_delay": null
                     }
                 },
+                "6076": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -2
+                        ],
+                        "average_delay": -2
+                    }
+                },
                 "6285": {
                     "arrivals": {
                         "delays": [
@@ -4426,6 +5739,18 @@
                             "0.333"
                         ],
                         "average_delay": 0.333
+                    }
+                },
+                "6782": {
+                    "arrivals": {
+                        "delays": [
+                            1.667
+                        ],
+                        "average_delay": 1.667
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
                     }
                 },
                 "7152": {
@@ -4488,6 +5813,30 @@
                         "average_delay": 0
                     }
                 },
+                "7227": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            8.75
+                        ],
+                        "average_delay": 8.75
+                    }
+                },
+                "7521": {
+                    "arrivals": {
+                        "delays": [
+                            2.017
+                        ],
+                        "average_delay": 2.017
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "7525": {
                     "arrivals": {
                         "delays": [],
@@ -4524,6 +5873,18 @@
                         "average_delay": 0
                     }
                 },
+                "7602": {
+                    "arrivals": {
+                        "delays": [
+                            1.5
+                        ],
+                        "average_delay": 1.5
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "7615": {
                     "arrivals": {
                         "delays": [],
@@ -4553,6 +5914,18 @@
                     "departures": {
                         "delays": [],
                         "average_delay": 0
+                    }
+                },
+                "6154": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            2.883
+                        ],
+                        "average_delay": 2.883
                     }
                 },
                 "6161": {
@@ -4624,11 +5997,24 @@
                         "average_delay": 5.133
                     }
                 },
+                "4030": {
+                    "arrivals": {
+                        "delays": [
+                            5.95
+                        ],
+                        "average_delay": 5.95
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "4227": {
                     "arrivals": {
                         "delays": [
                             "2.167",
-                            "2.167"
+                            "2.167",
+                            68.583
                         ],
                         "average_delay": null
                     },
@@ -4680,6 +6066,18 @@
                         "average_delay": null
                     }
                 },
+                "3844": {
+                    "arrivals": {
+                        "delays": [
+                            -4.483
+                        ],
+                        "average_delay": -4.483
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "3881": {
                     "arrivals": {
                         "delays": [],
@@ -4715,6 +6113,18 @@
                         ],
                         "average_delay": 3.333
                     }
+                },
+                "4225": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -0.25
+                        ],
+                        "average_delay": -0.25
+                    }
                 }
             }
         }
@@ -4723,6 +6133,18 @@
         "route_short_name": 565,
         "delay_times": {
             "stop_id": {
+                "6096": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            5.6
+                        ],
+                        "average_delay": 5.6
+                    }
+                },
                 "6118": {
                     "arrivals": {
                         "delays": [
@@ -4754,6 +6176,18 @@
         "route_short_name": 575,
         "delay_times": {
             "stop_id": {
+                "2435": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            0.467
+                        ],
+                        "average_delay": 0.467
+                    }
+                },
                 "6054": {
                     "arrivals": {
                         "delays": [
@@ -4860,6 +6294,30 @@
                         "average_delay": 2.65
                     }
                 },
+                "6231": {
+                    "arrivals": {
+                        "delays": [
+                            1.783
+                        ],
+                        "average_delay": 1.783
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "6233": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -0.067
+                        ],
+                        "average_delay": -0.067
+                    }
+                },
                 "6264": {
                     "arrivals": {
                         "delays": [],
@@ -4950,6 +6408,18 @@
                         "delays": [],
                         "average_delay": 0
                     }
+                },
+                "7180": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            11.15
+                        ],
+                        "average_delay": 11.15
+                    }
                 }
             }
         }
@@ -4980,6 +6450,30 @@
                             "-5.083"
                         ],
                         "average_delay": null
+                    }
+                },
+                "1498": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -2.4
+                        ],
+                        "average_delay": -2.4
+                    }
+                },
+                "7199": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            2.767
+                        ],
+                        "average_delay": 2.767
                     }
                 },
                 "7403": {
@@ -5060,6 +6554,18 @@
                         ],
                         "average_delay": 1.933
                     }
+                },
+                "7196": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            2.733
+                        ],
+                        "average_delay": 2.733
+                    }
                 }
             }
         }
@@ -5116,6 +6622,18 @@
                         "average_delay": 0
                     }
                 },
+                "7827": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            3.7
+                        ],
+                        "average_delay": 3.7
+                    }
+                },
                 "7832": {
                     "arrivals": {
                         "delays": [
@@ -5138,6 +6656,18 @@
                     "departures": {
                         "delays": [],
                         "average_delay": 0
+                    }
+                },
+                "7844": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            5.317
+                        ],
+                        "average_delay": 5.317
                     }
                 }
             }
@@ -5169,6 +6699,18 @@
                     "departures": {
                         "delays": [],
                         "average_delay": 0
+                    }
+                },
+                "7321": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            5.867
+                        ],
+                        "average_delay": 5.867
                     }
                 },
                 "7327": {
@@ -5208,6 +6750,18 @@
                         "average_delay": 0.167
                     }
                 },
+                "7939": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            25.433
+                        ],
+                        "average_delay": 25.433
+                    }
+                },
                 "8574": {
                     "arrivals": {
                         "delays": [],
@@ -5233,6 +6787,20 @@
                             "14.583"
                         ],
                         "average_delay": 14.583
+                    },
+                    "departures": {
+                        "delays": [
+                            7.45
+                        ],
+                        "average_delay": 7.45
+                    }
+                },
+                "1761": {
+                    "arrivals": {
+                        "delays": [
+                            20.65
+                        ],
+                        "average_delay": 20.65
                     },
                     "departures": {
                         "delays": [],
@@ -5295,6 +6863,18 @@
         "route_short_name": 767,
         "delay_times": {
             "stop_id": {
+                "7341": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            22.217
+                        ],
+                        "average_delay": 22.217
+                    }
+                },
                 "7347": {
                     "arrivals": {
                         "delays": [],
@@ -5341,9 +6921,10 @@
                 "1323": {
                     "arrivals": {
                         "delays": [
-                            "24.317"
+                            "24.317",
+                            24.317
                         ],
-                        "average_delay": 24.317
+                        "average_delay": null
                     },
                     "departures": {
                         "delays": [],
@@ -5409,6 +6990,18 @@
                         ],
                         "average_delay": 7.717
                     }
+                },
+                "7344": {
+                    "arrivals": {
+                        "delays": [
+                            8.267
+                        ],
+                        "average_delay": 8.267
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
                 }
             }
         }
@@ -5460,6 +7053,18 @@
                         "average_delay": 61.867
                     }
                 },
+                "3867": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            63.083
+                        ],
+                        "average_delay": 63.083
+                    }
+                },
                 "4438": {
                     "arrivals": {
                         "delays": [],
@@ -5491,6 +7096,18 @@
                         "average_delay": 4.867
                     }
                 },
+                "3481": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            7.367
+                        ],
+                        "average_delay": 7.367
+                    }
+                },
                 "3488": {
                     "arrivals": {
                         "delays": [],
@@ -5515,6 +7132,18 @@
                         "average_delay": 5.617
                     }
                 },
+                "3496": {
+                    "arrivals": {
+                        "delays": [
+                            -1.233
+                        ],
+                        "average_delay": -1.233
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "3512": {
                     "arrivals": {
                         "delays": [],
@@ -5534,6 +7163,30 @@
         "route_short_name": 839,
         "delay_times": {
             "stop_id": {
+                "3010": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            2.083
+                        ],
+                        "average_delay": 2.083
+                    }
+                },
+                "3105": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            9.05
+                        ],
+                        "average_delay": 9.05
+                    }
+                },
                 "3108": {
                     "arrivals": {
                         "delays": [],
@@ -5590,8 +7243,10 @@
                         "average_delay": 0.883
                     },
                     "departures": {
-                        "delays": [],
-                        "average_delay": 0
+                        "delays": [
+                            2.317
+                        ],
+                        "average_delay": 2.317
                     }
                 }
             }
@@ -5681,6 +7336,18 @@
                         "average_delay": 6.017
                     }
                 },
+                "3353": {
+                    "arrivals": {
+                        "delays": [
+                            -6.767
+                        ],
+                        "average_delay": -6.767
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "3362": {
                     "arrivals": {
                         "delays": [
@@ -5689,8 +7356,10 @@
                         "average_delay": 7.95
                     },
                     "departures": {
-                        "delays": [],
-                        "average_delay": 0
+                        "delays": [
+                            9.917
+                        ],
+                        "average_delay": 9.917
                     }
                 },
                 "3630": {
@@ -5712,6 +7381,18 @@
         "route_short_name": 875,
         "delay_times": {
             "stop_id": {
+                "3147": {
+                    "arrivals": {
+                        "delays": [
+                            4
+                        ],
+                        "average_delay": 4
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "3153": {
                     "arrivals": {
                         "delays": [],
@@ -5734,6 +7415,18 @@
                             "2.950"
                         ],
                         "average_delay": 2.95
+                    }
+                },
+                "3222": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            5.733
+                        ],
+                        "average_delay": 5.733
                     }
                 },
                 "3230": {
@@ -5791,6 +7484,18 @@
         "route_short_name": 879,
         "delay_times": {
             "stop_id": {
+                "1088": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            5.817
+                        ],
+                        "average_delay": 5.817
+                    }
+                },
                 "3076": {
                     "arrivals": {
                         "delays": [
@@ -5801,6 +7506,18 @@
                     "departures": {
                         "delays": [],
                         "average_delay": 0
+                    }
+                },
+                "3090": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            5.917
+                        ],
+                        "average_delay": 5.917
                     }
                 },
                 "3111": {
@@ -5870,9 +7587,10 @@
                     },
                     "departures": {
                         "delays": [
-                            "1.267"
+                            "1.267",
+                            1.267
                         ],
-                        "average_delay": 1.267
+                        "average_delay": null
                     }
                 },
                 "7086": {
@@ -5944,10 +7662,23 @@
                         "average_delay": 2.917
                     }
                 },
+                "3669": {
+                    "arrivals": {
+                        "delays": [
+                            3.817
+                        ],
+                        "average_delay": 3.817
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "4214": {
                     "arrivals": {
                         "delays": [
-                            "-4.867"
+                            "-4.867",
+                            -4.417
                         ],
                         "average_delay": null
                     },
@@ -5985,6 +7716,18 @@
                             "2.100"
                         ],
                         "average_delay": 2.1
+                    }
+                },
+                "3033": {
+                    "arrivals": {
+                        "delays": [
+                            2.917
+                        ],
+                        "average_delay": 2.917
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
                     }
                 },
                 "3053": {
@@ -6045,7 +7788,8 @@
                 "4225": {
                     "arrivals": {
                         "delays": [
-                            "-0.517"
+                            "-0.517",
+                            -0.517
                         ],
                         "average_delay": null
                     },
@@ -6079,6 +7823,18 @@
                         ],
                         "average_delay": 0.033
                     }
+                },
+                "4407": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            3.767
+                        ],
+                        "average_delay": 3.767
+                    }
                 }
             }
         }
@@ -6097,6 +7853,18 @@
                             "-1.583"
                         ],
                         "average_delay": null
+                    }
+                },
+                "3361": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -0.5
+                        ],
+                        "average_delay": -0.5
                     }
                 },
                 "3381": {
@@ -6158,6 +7926,18 @@
                         ],
                         "average_delay": null
                     }
+                },
+                "3860": {
+                    "arrivals": {
+                        "delays": [
+                            1.333
+                        ],
+                        "average_delay": 1.333
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
                 }
             }
         }
@@ -6172,6 +7952,30 @@
                             "0.667"
                         ],
                         "average_delay": 0.667
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "3357": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            2.5
+                        ],
+                        "average_delay": 2.5
+                    }
+                },
+                "3643": {
+                    "arrivals": {
+                        "delays": [
+                            -3.283
+                        ],
+                        "average_delay": -3.283
                     },
                     "departures": {
                         "delays": [],
@@ -6269,6 +8073,30 @@
                         ],
                         "average_delay": null
                     }
+                },
+                "3926": {
+                    "arrivals": {
+                        "delays": [
+                            0.783
+                        ],
+                        "average_delay": 0.783
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "3996": {
+                    "arrivals": {
+                        "delays": [
+                            1.717
+                        ],
+                        "average_delay": 1.717
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
                 }
             }
         }
@@ -6312,6 +8140,18 @@
                         ],
                         "average_delay": null
                     }
+                },
+                "3881": {
+                    "arrivals": {
+                        "delays": [
+                            -9.067
+                        ],
+                        "average_delay": -9.067
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
                 }
             }
         }
@@ -6330,6 +8170,18 @@
                             "3.000"
                         ],
                         "average_delay": 3
+                    }
+                },
+                "3923": {
+                    "arrivals": {
+                        "delays": [
+                            3.75
+                        ],
+                        "average_delay": 3.75
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
                     }
                 },
                 "7036": {
@@ -6367,7 +8219,8 @@
                     "arrivals": {
                         "delays": [
                             "1.367",
-                            "1.367"
+                            "1.367",
+                            8.7
                         ],
                         "average_delay": null
                     },
@@ -6386,6 +8239,18 @@
                             "-2.350"
                         ],
                         "average_delay": null
+                    }
+                },
+                "4448": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            2.167
+                        ],
+                        "average_delay": 2.167
                     }
                 }
             }
@@ -6419,6 +8284,18 @@
                         "average_delay": null
                     }
                 },
+                "3771": {
+                    "arrivals": {
+                        "delays": [
+                            -5.017
+                        ],
+                        "average_delay": -5.017
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "3961": {
                     "arrivals": {
                         "delays": [
@@ -6437,6 +8314,18 @@
                             "4.900"
                         ],
                         "average_delay": 4.9
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "4084": {
+                    "arrivals": {
+                        "delays": [
+                            1.983
+                        ],
+                        "average_delay": 1.983
                     },
                     "departures": {
                         "delays": [],
@@ -6482,7 +8371,8 @@
                 "7071": {
                     "arrivals": {
                         "delays": [
-                            "-10.233"
+                            "-10.233",
+                            -10.233
                         ],
                         "average_delay": null
                     },
@@ -6566,6 +8456,18 @@
                         "average_delay": 0.667
                     }
                 },
+                "4030": {
+                    "arrivals": {
+                        "delays": [
+                            0.117
+                        ],
+                        "average_delay": 0.117
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "4061": {
                     "arrivals": {
                         "delays": [
@@ -6612,7 +8514,9 @@
                 "4134": {
                     "arrivals": {
                         "delays": [
-                            "-4.867"
+                            "-4.867",
+                            -3.6,
+                            57.517
                         ],
                         "average_delay": null
                     },
@@ -6644,13 +8548,26 @@
                     "arrivals": {
                         "delays": [
                             "3.500",
-                            "4.850"
+                            "4.850",
+                            4.85
                         ],
                         "average_delay": null
                     },
                     "departures": {
                         "delays": [],
                         "average_delay": 0
+                    }
+                },
+                "4140": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            7.383
+                        ],
+                        "average_delay": 7.383
                     }
                 }
             }
@@ -6688,8 +8605,10 @@
                         "average_delay": null
                     },
                     "departures": {
-                        "delays": [],
-                        "average_delay": 0
+                        "delays": [
+                            0.267
+                        ],
+                        "average_delay": 0.267
                     }
                 },
                 "4776": {
@@ -6715,6 +8634,18 @@
                     "departures": {
                         "delays": [],
                         "average_delay": 0
+                    }
+                },
+                "4791": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -0.117
+                        ],
+                        "average_delay": -0.117
                     }
                 },
                 "4809": {
@@ -6757,8 +8688,22 @@
                         "average_delay": null
                     },
                     "departures": {
+                        "delays": [
+                            0.35
+                        ],
+                        "average_delay": 0.35
+                    }
+                },
+                "4638": {
+                    "arrivals": {
                         "delays": [],
                         "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            12.9
+                        ],
+                        "average_delay": 12.9
                     }
                 },
                 "4665": {
@@ -6814,6 +8759,18 @@
                     "departures": {
                         "delays": [],
                         "average_delay": 0
+                    }
+                },
+                "4630": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -0.933
+                        ],
+                        "average_delay": -0.933
                     }
                 },
                 "4641": {
@@ -6875,6 +8832,18 @@
                         "delays": [],
                         "average_delay": 0
                     }
+                },
+                "4769": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            0.467
+                        ],
+                        "average_delay": 0.467
+                    }
                 }
             }
         }
@@ -6905,7 +8874,8 @@
                 "7016": {
                     "arrivals": {
                         "delays": [
-                            "-0.850"
+                            "-0.850",
+                            -0.067
                         ],
                         "average_delay": null
                     },
@@ -6917,9 +8887,10 @@
                 "7018": {
                     "arrivals": {
                         "delays": [
-                            "5.333"
+                            "5.333",
+                            -1.7
                         ],
-                        "average_delay": 5.333
+                        "average_delay": null
                     },
                     "departures": {
                         "delays": [
@@ -6966,6 +8937,30 @@
                         "average_delay": 0
                     }
                 },
+                "7108": {
+                    "arrivals": {
+                        "delays": [
+                            6.083
+                        ],
+                        "average_delay": 6.083
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7109": {
+                    "arrivals": {
+                        "delays": [
+                            -4.383
+                        ],
+                        "average_delay": -4.383
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "7131": {
                     "arrivals": {
                         "delays": [
@@ -6985,7 +8980,8 @@
                     },
                     "departures": {
                         "delays": [
-                            "-1.650"
+                            "-1.650",
+                            -4.267
                         ],
                         "average_delay": null
                     }
@@ -7016,6 +9012,18 @@
                         "average_delay": 2.3
                     }
                 },
+                "7188": {
+                    "arrivals": {
+                        "delays": [
+                            9.25
+                        ],
+                        "average_delay": 9.25
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "7197": {
                     "arrivals": {
                         "delays": [],
@@ -7038,6 +9046,18 @@
                             "5.667"
                         ],
                         "average_delay": 5.667
+                    }
+                },
+                "7203": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -0.367
+                        ],
+                        "average_delay": -0.367
                     }
                 },
                 "7208": {
@@ -7104,9 +9124,10 @@
                 "7228": {
                     "arrivals": {
                         "delays": [
-                            "0.900"
+                            "0.900",
+                            -0.483
                         ],
-                        "average_delay": 0.9
+                        "average_delay": null
                     },
                     "departures": {
                         "delays": [],
@@ -7132,11 +9153,24 @@
         "route_short_name": "SKY",
         "delay_times": {
             "stop_id": {
+                "2006": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            3.483
+                        ],
+                        "average_delay": 3.483
+                    }
+                },
                 "2010": {
                     "arrivals": {
                         "delays": [
                             "-9.283",
-                            "-10.333"
+                            "-10.333",
+                            -8.1
                         ],
                         "average_delay": null
                     },
@@ -7167,6 +9201,18 @@
                             "-8.067"
                         ],
                         "average_delay": null
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "7147": {
+                    "arrivals": {
+                        "delays": [
+                            -2.833
+                        ],
+                        "average_delay": -2.833
                     },
                     "departures": {
                         "delays": [],
@@ -7218,8 +9264,10 @@
                         "average_delay": 0.333
                     },
                     "departures": {
-                        "delays": [],
-                        "average_delay": 0
+                        "delays": [
+                            0.5
+                        ],
+                        "average_delay": 0.5
                     }
                 },
                 "8502": {
@@ -7229,7 +9277,8 @@
                     },
                     "departures": {
                         "delays": [
-                            "-2.233"
+                            "-2.233",
+                            -2.233
                         ],
                         "average_delay": null
                     }
@@ -7277,6 +9326,18 @@
         "route_short_name": "CTY",
         "delay_times": {
             "stop_id": {
+                "1061": {
+                    "arrivals": {
+                        "delays": [
+                            1.167
+                        ],
+                        "average_delay": 1.167
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "1067": {
                     "arrivals": {
                         "delays": [],
@@ -7309,7 +9370,8 @@
                     },
                     "departures": {
                         "delays": [
-                            "-3.833"
+                            "-3.833",
+                            -0.483
                         ],
                         "average_delay": null
                     }
@@ -7327,6 +9389,18 @@
                         "average_delay": null
                     }
                 },
+                "1342": {
+                    "arrivals": {
+                        "delays": [
+                            0.317
+                        ],
+                        "average_delay": 0.317
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
                 "7004": {
                     "arrivals": {
                         "delays": [],
@@ -7337,6 +9411,18 @@
                             "0.850"
                         ],
                         "average_delay": 0.85
+                    }
+                },
+                "7034": {
+                    "arrivals": {
+                        "delays": [
+                            -9.7
+                        ],
+                        "average_delay": -9.7
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
                     }
                 },
                 "7035": {
@@ -7387,6 +9473,18 @@
                         "delays": [],
                         "average_delay": 0
                     }
+                },
+                "7061": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -0.35
+                        ],
+                        "average_delay": -0.35
+                    }
                 }
             }
         }
@@ -7407,6 +9505,18 @@
                         "average_delay": 0.4
                     }
                 },
+                "3221": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            2.667
+                        ],
+                        "average_delay": 2.667
+                    }
+                },
                 "3355": {
                     "arrivals": {
                         "delays": [],
@@ -7417,6 +9527,18 @@
                             "1.933"
                         ],
                         "average_delay": 1.933
+                    }
+                },
+                "3360": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -0.117
+                        ],
+                        "average_delay": -0.117
                     }
                 },
                 "4063": {
@@ -7497,13 +9619,26 @@
                 "4569": {
                     "arrivals": {
                         "delays": [
-                            "5.417"
+                            "5.417",
+                            5.417
                         ],
-                        "average_delay": 5.417
+                        "average_delay": null
                     },
                     "departures": {
                         "delays": [],
                         "average_delay": 0
+                    }
+                },
+                "7034": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            0.267
+                        ],
+                        "average_delay": 0.267
                     }
                 },
                 "7036": {
@@ -7551,6 +9686,30 @@
                             "-6.983"
                         ],
                         "average_delay": null
+                    }
+                },
+                "1077": {
+                    "arrivals": {
+                        "delays": [
+                            -1.75
+                        ],
+                        "average_delay": -1.75
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
+                    }
+                },
+                "1079": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -7.517
+                        ],
+                        "average_delay": -7.517
                     }
                 },
                 "1083": {
@@ -7625,6 +9784,18 @@
                         "average_delay": null
                     }
                 },
+                "7120": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            5.583
+                        ],
+                        "average_delay": 5.583
+                    }
+                },
                 "7124": {
                     "arrivals": {
                         "delays": [],
@@ -7632,9 +9803,22 @@
                     },
                     "departures": {
                         "delays": [
-                            "0.367"
+                            "0.367",
+                            -7.583
                         ],
-                        "average_delay": 0.367
+                        "average_delay": null
+                    }
+                },
+                "7185": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            -6.4
+                        ],
+                        "average_delay": -6.4
                     }
                 },
                 "7190": {
@@ -7687,14 +9871,28 @@
                 },
                 "7200": {
                     "arrivals": {
-                        "delays": [],
-                        "average_delay": 0
+                        "delays": [
+                            -0.85
+                        ],
+                        "average_delay": -0.85
                     },
                     "departures": {
                         "delays": [
                             "-1.233"
                         ],
                         "average_delay": null
+                    }
+                },
+                "7203": {
+                    "arrivals": {
+                        "delays": [
+                            3.8
+                        ],
+                        "average_delay": 3.8
+                    },
+                    "departures": {
+                        "delays": [],
+                        "average_delay": 0
                     }
                 },
                 "8014": {
@@ -7842,6 +10040,18 @@
                         "average_delay": 0
                     }
                 },
+                "8517": {
+                    "arrivals": {
+                        "delays": [],
+                        "average_delay": 0
+                    },
+                    "departures": {
+                        "delays": [
+                            1.917
+                        ],
+                        "average_delay": 1.917
+                    }
+                },
                 "8703": {
                     "arrivals": {
                         "delays": [],
@@ -7875,8 +10085,10 @@
                         "average_delay": 2.817
                     },
                     "departures": {
-                        "delays": [],
-                        "average_delay": 0
+                        "delays": [
+                            1.45
+                        ],
+                        "average_delay": 1.45
                     }
                 }
             }
